@@ -1,1 +1,26 @@
-Last updated: 2026-08-13 19:58:52 WIB
+# responsive-car-website-2
+
+
+
+## 📋 Overview
+
+This repository contains **19 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-08-13 20:27:46 WIB*
